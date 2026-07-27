@@ -11,7 +11,7 @@
 
   <section>
     <h2>👤 Perfil Pessoal</h2>
-    <p>Estudante de Ciêcias da Computação, focado em aprender programação e crescer na área de tecnologia.</p>
+    <p>Estudante de Ciências da Computação, focado em aprender programação e crescer na área de tecnologia.</p>
     <p>Email: alissonma6@gmail.com</p>
     <p>
       LinkedIn: 
